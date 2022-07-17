@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋,looks like you found me, I'm Ananya Lathi</h1>
 <h3 align="center">A passionate frontend developer and business patterns analysis enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/-420uI8y-RkAAAAd/anime-welcome.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyalathi19&label=Profile%20views&color=0e75b6&style=flat" alt="ananyalathi19" /> </p>
+
 
 - 🔭 I’m currently working on **textx**
 
@@ -14,6 +14,8 @@
 - ⚡ Fun fact **I am very sarcastic for a boring life**
 
 - If you're a fellow business enthusiast and developer, lets talk! 🌻
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ananyalathi19&label=Profile%20views&color=0e75b6&style=flat" alt="ananyalathi19" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
