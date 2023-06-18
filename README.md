@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=21&duration=4962&color=FFFFFF&background=05050500&center=true&vCenter=true&lines=Hey+there+%F0%9F%91%8B;looks+like+you+found+me;I'm+Ananya+Lathi!)](https://git.io/typing-svg)
-<h3 align="center">A passionate frontend developer and business patterns analysis enthusiast from India</h3>
+<h3 align="center">A passionate Analytics and business patterns lover from India</h3>
 
-- 🔭 I’m currently working on **textx**
-
-- 🌱 I’m currently learning **MERN Stack development**
-
-- 💬 Ask me about **react.js,node.js**
+- 🔭 I’m currently working on **Improving my skills in the data domain**
 
 - 📫 How to reach me **ananyalathi@gmail.com**
 
